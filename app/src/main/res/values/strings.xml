@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First Screen</string>
+    <string name="title">Details</string>
+    <string name="plant_name">Peace lily plant</string>
+    <string name="price_value">$60,00</string>
+    <string name="plant_desc">Peace lilies are sturdy, easy to grow plants with glossy, dark green oval leaves that narrow to a point. The leaves rise directly from the soil.</string>
+    <string name="image_content_description">plant picture</string>
+</resources>
